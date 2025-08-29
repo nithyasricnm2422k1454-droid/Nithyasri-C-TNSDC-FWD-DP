@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C. Nithyasri Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="                                    
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="                        
+                <li><a href="#education">Education</a></li>
+                <li><a href="                          
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="introduction">
+            <h1>C. Nithyasri</h1>
+            <p>Motivated and detail-oriented frontend developer</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Edunet Frontend</h3>
+                    <p>Web development project</p>
+                </li>
+                <!-- Add more projects -->
+            </ul>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <p>B.Sc. Computer Science, Govt. Arts and Science College, Sathyamangalam</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:nithyasricnm2422k1454@gmail.com">nithyasricnm2422k1454@gmail.com</a></p>
+            <p>Phone: 9087689305</p>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
